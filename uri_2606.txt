@@ -1,0 +1,1 @@
+SELECT products.id, products.name FROM products WHERE products.id_categories = 9 or products.id_categories = 7;
